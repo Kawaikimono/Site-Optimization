@@ -50,14 +50,10 @@ a {
 p {
     font-size: 16px;
 }
-/* To add cover image "digital-marketing-meeting" to website below header to the width of the page */
-.hero {
-    height: 800px;
+/* Edits cover image size, took over for .hero */
+.digital-marketing-meeting{
+    max-height: 800px;
     width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 /*Toggles SEO and Social Media Marketing image left*/
 .float-left {
