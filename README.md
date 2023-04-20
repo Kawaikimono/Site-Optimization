@@ -1,4 +1,4 @@
-# <Lesson 1 Challenge>
+# Site-Optimization
 
 ## Description
 ```
@@ -16,7 +16,7 @@ This project was to refactor a marketing website utilizing accessibility standar
 
 ## Depolyed Viewing
 
-Asignment link: https://kawaikimono.github.io/Lesson-1-Challenge/
+Asignment link: https://kawaikimono.github.io/Site-Optimization/
 
 [Website preview](./assets/images/Preview.png)
 
